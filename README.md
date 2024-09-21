@@ -1,27 +1,17 @@
 <!-- 
     Início do README: Personalização para um tom mais profissional e convidativo.
 -->
-
-## 👋 Olá, seja bem-vindo(a) ao perfil da desenvolvedora Natália Armond!
+## 🧑‍💻 Sobre Mim
+👋 Olá, seja bem-vindo(a) ao perfil da desenvolvedora Natália Armond!
 
 Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desafios, meu foco está em criar soluções inovadoras e funcionais, unindo design e programação para proporcionar a melhor experiência ao usuário. Aqui você encontrará alguns dos meus projetos, tecnologias que utilizo e certificações adquiridas ao longo da minha jornada.
 ---
-## ![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
-
----
-
-<div>
-  <!-- Imagem do status geral do GitHub, mostrando commits privados e o layout compacto das linguagens mais utilizadas -->
-  <a href="https://github.com/BreadcrumbsNatalia-Armond">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natalia-Armond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
 
 ---
 
 <!-- Seção dedicada às ferramentas e tecnologias que você domina -->
-### 🔧 Ferramentas e Tecnologias:
+### 🚀 Habilidades Técnicas
 
 <!-- Tabela para exibir as ferramentas de maneira organizada e visualmente atrativa -->
 <table>
@@ -38,15 +28,28 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
     <td align="center">
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/><br>React
     </td>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/><br>Node.js
-    </td>
+    </td> -->
   </tr>
 </table>
 
 ---
+<!-- Seção que mostra as novas habilidades que você está aprendendo -->
+### 🚀 Em aprendizado constante:
 
-<!-- Seção que destaca suas certificações de forma clara 
+Atualmente, estou expandindo meus conhecimentos em:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<!--incluir o nodejs php e aws-->
+---
+
+<!--
+Seção que destaca suas certificações de forma clara 
 ### 🏆 Certificados:
 
 <table>
@@ -63,22 +66,30 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
   </tr>
 </table>
 
------>
+---
+-->
 
-<!-- Seção que mostra as novas habilidades que você está aprendendo -->
-### 🚀 Em aprendizado constante:
+## 💼 Projetos
 
-Atualmente, estou expandindo meus conhecimentos em:
+### [ Demonstração Projeto 1](link-para-repo) - Uma solução inovadora para X problema
+![Screenshot](link-para-screenshot.png)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### [Demonstração Projeto 2](link-para-repo) - Automatizando tarefas com Y
+![Screenshot](link-para-screenshot.png)
+
+
+
+<!-- Seção para promover o seu portfólio de forma mais destacada -->
+### 🌐 Acesse meu portfólio pessoal:
+
+Para ver meus projetos e o que mais estou desenvolvendo, acesse meu portfólio:
+
+<a href="https://natalia-armond.github.io/" target="_blank">**natalia-armond.github.io**</a>
 
 ---
 
 <!-- Seção para promover suas redes sociais de forma visualmente atraente -->
+
 ### 🌟 Vamos nos conectar!
 
 Estou sempre aberta para discutir novos projetos, trocar ideias ou contribuir com a comunidade tech. Sinta-se à vontade para me seguir ou entrar em contato através das minhas redes:
@@ -97,15 +108,26 @@ Estou sempre aberta para discutir novos projetos, trocar ideias ou contribuir co
 
 ---
 
-<!-- Seção para promover o seu portfólio de forma mais destacada -->
-### 🌐 Acesse meu portfólio pessoal:
-
-Para ver meus projetos e o que mais estou desenvolvendo, acesse meu portfólio:
-
-<a href="https://natalia-armond.github.io/" target="_blank">**natalia-armond.github.io**</a>
-
----
-
+## 📊 Estatísticas do GitHub  
+<div>
+    <!--  Seção status geral do GitHub, mostrando commits privados e o layout compacto das linguagens mais utilizadas -->
+    <a href="https://github.com/BreadcrumbsNatalia-Armond">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natalia-Armond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight"/>
+    </a>
+  </div>
+  
+  ---
 <!-- Exibindo novamente o status do GitHub para complementar a personalização 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-Armond&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight)-->
+
+---
+
+## ⭐️ Reconhecimentos  
+- Finalista do Hackathon XYZ 2023  
+- Contribuidor ativo em projetos open-source
+
+---
+
+ 
