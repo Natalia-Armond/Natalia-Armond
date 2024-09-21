@@ -110,15 +110,14 @@ Para ver meus projetos e o que mais estou desenvolvendo, acesse meu portfólio:
 ### 🌟 Vamos nos conectar!
 
 Estou sempre aberta para discutir novos projetos, trocar ideias ou contribuir com a comunidade tech. Sinta-se à vontade para me seguir ou entrar em contato através das minhas redes:
-
 <div>
-  <a href="https://discord.com/channels/@nataliaarmond" target="_blank">
+  <a href="https://discord.com/channels/@nataliaarmond" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:taya.armond@gmail.com" target="_blank">
+  <a href="mailto:taya.armond@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/nat%C3%A1lia-armond/" target="_blank">
+  <a href="https://www.linkedin.com/in/nat%C3%A1lia-armond/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
@@ -133,11 +132,6 @@ Estou sempre aberta para discutir novos projetos, trocar ideias ou contribuir co
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight"/>
     </a>
   </div>
-  
-  ---
-<!-- Exibindo novamente o status do GitHub para complementar a personalização 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-Armond&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight)-->
 
 ---
 
