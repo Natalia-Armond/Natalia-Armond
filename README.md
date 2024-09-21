@@ -2,12 +2,14 @@
     Início do README: Personalização para um tom mais profissional e convidativo.
 -->
 ## 🧑‍💻 Sobre Mim
-👋 Olá, seja bem-vindo(a) ao perfil da desenvolvedora Natália Armond!
 
+👋 Olá, seja bem-vindo(a) ao meu perfil!
 Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desafios, meu foco está em criar soluções inovadoras e funcionais, unindo design e programação para proporcionar a melhor experiência ao usuário. Aqui você encontrará alguns dos meus projetos, tecnologias que utilizo e certificações adquiridas ao longo da minha jornada.
----
-![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
 
+---
+<!--
+![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
+-->
 ---
 
 <!-- Seção dedicada às ferramentas e tecnologias que você domina -->
@@ -36,19 +38,35 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
 
 ---
 <!-- Seção que mostra as novas habilidades que você está aprendendo -->
-### 🚀 Em aprendizado constante:
+### 📚 Em aprendizado constante:
 
 Atualmente, estou expandindo meus conhecimentos em:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<!--incluir o nodejs php e aws-->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/><br>AWS
+    </td>
+  </tr>
+</table>
+
 ---
 
-<!--
 Seção que destaca suas certificações de forma clara 
 ### 🏆 Certificados:
 
@@ -67,7 +85,6 @@ Seção que destaca suas certificações de forma clara
 </table>
 
 ---
--->
 
 ## 💼 Projetos
 
