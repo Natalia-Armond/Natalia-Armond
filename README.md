@@ -9,9 +9,9 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
 ---
 <!--
 ![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
--->
----
 
+---
+-->
 <!-- Seção dedicada às ferramentas e tecnologias que você domina -->
 ### 🚀 Habilidades Técnicas
 
@@ -30,9 +30,6 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
     <td align="center">
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/><br>React
     </td>
-    <!--<td align="center">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/><br>Node.js
-    </td> -->
   </tr>
 </table>
 
@@ -66,7 +63,7 @@ Atualmente, estou expandindo meus conhecimentos em:
 </table>
 
 ---
-
+<!--
 Seção que destaca suas certificações de forma clara 
 ### 🏆 Certificados:
 
@@ -85,7 +82,8 @@ Seção que destaca suas certificações de forma clara
 </table>
 
 ---
-
+-->
+<!--
 ## 💼 Projetos
 
 ### [ Demonstração Projeto 1](link-para-repo) - Uma solução inovadora para X problema
@@ -94,7 +92,7 @@ Seção que destaca suas certificações de forma clara
 ### [Demonstração Projeto 2](link-para-repo) - Automatizando tarefas com Y
 ![Screenshot](link-para-screenshot.png)
 
-
+-->
 
 <!-- Seção para promover o seu portfólio de forma mais destacada -->
 ### 🌐 Acesse meu portfólio pessoal:
@@ -134,11 +132,11 @@ Estou sempre aberta para discutir novos projetos, trocar ideias ou contribuir co
   </div>
 
 ---
-
+<!--
 ## ⭐️ Reconhecimentos  
 - Finalista do Hackathon XYZ 2023  
 - Contribuidor ativo em projetos open-source
-
+-->
 ---
 
  
