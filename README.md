@@ -5,6 +5,10 @@
 ## 👋 Olá, seja bem-vindo(a) ao perfil da desenvolvedora Natália Armond!
 
 Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desafios, meu foco está em criar soluções inovadoras e funcionais, unindo design e programação para proporcionar a melhor experiência ao usuário. Aqui você encontrará alguns dos meus projetos, tecnologias que utilizo e certificações adquiridas ao longo da minha jornada.
+---
+## ![Banner](https://github.com/Natalia-Armond/Natalia-Armond/blob/main/Desenvolvedora%20Full%20Stack.png?raw=true)
+
+---
 
 <div>
   <!-- Imagem do status geral do GitHub, mostrando commits privados e o layout compacto das linguagens mais utilizadas -->
@@ -42,7 +46,7 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
 
 ---
 
-<!-- Seção que destaca suas certificações de forma clara -->
+<!-- Seção que destaca suas certificações de forma clara 
 ### 🏆 Certificados:
 
 <table>
@@ -59,7 +63,7 @@ Sou apaixonada por tecnologia e desenvolvimento web. Sempre buscando novos desaf
   </tr>
 </table>
 
----
+----->
 
 <!-- Seção que mostra as novas habilidades que você está aprendendo -->
 ### 🚀 Em aprendizado constante:
@@ -102,6 +106,6 @@ Para ver meus projetos e o que mais estou desenvolvendo, acesse meu portfólio:
 
 ---
 
-<!-- Exibindo novamente o status do GitHub para complementar a personalização -->
+<!-- Exibindo novamente o status do GitHub para complementar a personalização 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-Armond&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Armond&layout=compact&langs_count=6&theme=tokyonight)-->
